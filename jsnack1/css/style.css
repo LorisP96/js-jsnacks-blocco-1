@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#dispari {
+    color: red;
+}
+
+#pari {
+    color: green;
+}
+
+div {
+    font-size: 50px;
+}
